@@ -1,16 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:fff099,100:E6B9F7&width=1500&height=240&section=header&text=Hello%20World✋%20I'm%20Yeseul!&fontSize=50&fontColor=ffffff )  
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=50&pause=1000&color=000000&width=830&height=100&lines=Welcome+to+Yeseul's+Github!%F0%9F%91%8B)](https://git.io/typing-svg)
 
+</div>
 
 <div align="center">
-  <br>
 
+안녕하세요! 프론트와 백엔드 모두 관심있는 열정 가득한 신입 개발자입니다👩‍💻💜💭<br>
+백엔드를 잘 하고 싶어 현재 열심히 공부 중 입니다.🚀
 
 </div>
 
 <br>
 
  
-## Stacks 📖
+## Stacks 🌟
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -46,15 +50,19 @@
 
 ## Contact📫
 <div align=center>
-          <a href="mailto:seok157500@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:seok157500@gmail.com"> </a>
-  <a href="https://velog.io/@hyejee0504"> <img src="https://img.shields.io/badge/velog-12b886?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@hyejee0504"> </a>
-  <a href="https://maze-yacht-da0.notion.site/Jr-Front-end-Developer-e093714d272f42ada0f0dadf588ca957"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://maze-yacht-da0.notion.site/Jr-Front-end-Developer-8a7cbcfad1d049b48f5150f0b3a1bf40"> </a>
+  <a href="mailto:yesul_park@naver.com"> 
+    <img src="https://img.shields.io/badge/naver%20mail-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:yesul_park@naver.com">
+  </a>
 
+  <a href="https://maze-yacht-da0.notion.site/Jr-Front-end-Developer-e093714d272f42ada0f0dadf588ca957"> 
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://maze-yacht-da0.notion.site/Jr-Front-end-Developer-8a7cbcfad1d049b48f5150f0b3a1bf40"> 
+  </a>
 
   <br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejee0504%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejee0504%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
+  </a>
 </div>
 
-## Github-stats ⏲️  
 
-<img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> <img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/languages.svg?exclude_repo=Frontend-School3" width="49.2%" />
+
